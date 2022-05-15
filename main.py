@@ -23,9 +23,4 @@ def putInList(args, remove):
   print(len(l))
   print(l)
   
-putInList("ayre", "tsduiophcnm")
-
-
-
-
-
+putInList("diye", "fauonmphcrst")
